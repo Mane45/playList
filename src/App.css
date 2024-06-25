@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+}
+
+.song {
+  width: 400px;
+  height: auto;
+  padding: 10px;
+  text-align: left;
+  background: yellowgreen;
+  margin: 20px;
+  border-radius: 5px;
+}
